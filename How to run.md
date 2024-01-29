@@ -57,7 +57,7 @@ This will open Jupyter Notebook in your default web browser.
 
 ### Step 4: Open the Project Notebook
 
-In Jupyter Notebook, navigate to the project directory and open the main project notebook, typically named "Amazon_Product_Sales_Analysis.ipynb".
+In Jupyter Notebook, navigate to the project directory and open the main project notebook, typically named "EDA Project.ipynb".
 
 ### Step 5: Run the Notebook Cells
 
