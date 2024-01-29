@@ -13,6 +13,7 @@ The primary objective of this analysis is to identify trends in pricing, sales, 
 - Python
 - Jupyter Notebook
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 
@@ -20,13 +21,13 @@ The primary objective of this analysis is to identify trends in pricing, sales, 
 
 ### Data Cleaning
 
-- Rectified negative values in the dataset.
-- Eliminated outliers in revenue and other relevant metrics.
-- Addressed missing or null values in the dataset.
+- Rectified abnormal values in the dataset.
+- Eliminate duplicate rows in the dataset.
+- Addressed missing or null values in the dataset and handled them with appropriate methods.
 
 ### Data Transformation
 
-- Converted raw data into actionable insights.
+- Transformed the data types of specific columns to more appropriate types based on the content they encapsulate.
 - Introduced new metrics or features to enhance the analysis.
 
 ### Exploratory Data Analysis (EDA)
@@ -35,6 +36,11 @@ The primary objective of this analysis is to identify trends in pricing, sales, 
 - Detected outliers and influential points.
 - Calculated summary statistics to describe the central tendency and dispersion of the data.
 - Created visualizations to communicate findings and generate insights.
+
+### Hypothesis Testing and Central Limit Theorem
+
+- Utilized hypothesis testing techniques such as ANOVA and t-tests to compare means and assess statistical significance in sales and pricing data.
+- Applied the central limit theorem to analyze the distribution of sample means and assess the normality of key metrics.
 
 ## Insights
 
