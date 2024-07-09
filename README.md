@@ -1,4 +1,5 @@
 # Amazon Product Sales Analysis
+![amazon](https://github.com/Satwik-uppada/Data-Analysis-Capstone-Project/assets/92086645/138ac416-fb8c-4c5f-b06e-788d14cd3136)
 
 ## Overview 📊
 
